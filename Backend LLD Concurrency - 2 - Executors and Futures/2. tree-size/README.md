@@ -1,4 +1,4 @@
-#Parallel Binary Tree Size Calculation
+# Parallel Binary Tree Size Calculation
 
 ## Problem Statement
 You are tasked with creating a Python program that can calculate the size (number of nodes) of a binary tree using parallel processing. The program should leverage the concurrent.futures module and threading to achieve parallelism and improve performance.
