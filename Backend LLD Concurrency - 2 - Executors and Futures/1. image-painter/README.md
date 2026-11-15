@@ -1,4 +1,4 @@
-#Parallel Matrix Painting
+# Parallel Matrix Painting
 
 ## Problem Statement
 You are tasked with creating a Python program that can divide a matrix into quadrants and paint each quadrant with a different color using parallel processing. The program should leverage the concurrent.futures module to achieve parallelism and improve performance.
